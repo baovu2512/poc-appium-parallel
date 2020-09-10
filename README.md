@@ -4,26 +4,13 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Serenity appium parallel - custom driver
 
-### How do I get set up? ###
+### Installation ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+JDK 1.8
+Maven 3.6.3
+Appium
 
-### Contribution guidelines ###
+Config device in properties file and run mvn clean verify.
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
